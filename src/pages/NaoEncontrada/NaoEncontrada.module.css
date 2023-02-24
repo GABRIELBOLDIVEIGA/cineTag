@@ -1,0 +1,5 @@
+.container {
+    border: 8px solid black;
+    box-shadow: 15px 15px greenyellow;
+    border-radius: 15px;
+}
